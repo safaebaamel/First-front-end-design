@@ -8,7 +8,7 @@ html {
 }
 .login {
     width: 320px;
-    height: 420px;
+    height: 440px;
     background: rgba(70, 133, 104, 0.276);
     color: #fff;
     top: 50%;
@@ -56,16 +56,16 @@ h1 {
 {
     cursor: pointer;
     background: rgba(70, 133, 104, 0.276);
-    color :rgba(70, 133, 104, 0.735);
+    color :rgba(90, 155, 125, 0.801);
 }
 .login a {
     text-decoration: none;
     font-size: 13px;
     line-height: 20px;
-    color: rgba(54, 58, 108, 0.685);
+    color: rgb(245, 246, 253);
 }
 .login a:hover {
-    color: rgba(30, 97, 65, 0.276);
+    color: rgba(245, 250, 248, 0.523);
 }
 
 .avatar {
