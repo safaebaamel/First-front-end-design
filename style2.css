@@ -1,6 +1,10 @@
 body {
-    background-image: url(./assets/images/try4.jpg);
-    background-size:100% ;
+    font-family: 'Times New Roman', Times, serif;
+    background: url(./assets/images/try4.jpg) no-repeat center center fixed;
+    background-size: 100%;
+    -webkit-backround-size: cover;
+    -moz-background-size: cover;
+    -moz-background-size: cover;
 }
 .login {
     width: 320px;
